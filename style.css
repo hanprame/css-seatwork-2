@@ -1,7 +1,7 @@
 body {
     margin: 0;
 }
-section.row {
+section.col {
     background-color: yellow;
 }
 section.col {
