@@ -1,9 +1,9 @@
 body {
     margin: 0;
+}
 section.col {
     width: 33%;
     float: left;
-}
 }
 section.col {
     background-color: yellow;
