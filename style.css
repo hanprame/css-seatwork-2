@@ -1,10 +1,12 @@
 body {
     margin: 0;
+section.col {
+    width: 33%;
+    float: left;
+}
 }
 section.col {
     background-color: yellow;
-     width: 33%;
-    float: left;
 }
 header,footer {
     background-color: gray;
