@@ -11,6 +11,8 @@ section.row {
 header,footer {
     background-color: gray;
     color: white;
+    overflow: hidden;  
+
 }
 
 div#content {
