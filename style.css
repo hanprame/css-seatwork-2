@@ -9,7 +9,7 @@ section.row {
     background-color: yellow;
 }
 header,footer {
-    color: white;
+    background-color: grey;
     overflow: hidden;  
     width: 100%;
 }
